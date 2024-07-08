@@ -1,0 +1,1 @@
+Find an artist - responsive landing page. Written in HTML and CSS. The page has a header, main part with the search functionality, "how it works" section and a footer. The elements are aligned using Flexbox in CSS.
